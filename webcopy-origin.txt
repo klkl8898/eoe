@@ -1,0 +1,44 @@
+Uri: https://act.mihoyo.com/puzzle/bh3/pz_3mn5bIpcHQ/config.fb2e53d7.js
+File Name: C:\Downloaded Web Sites\bh3.mihoyo.com\puzzle\bh3\pz_3mn5bIpcHQ\config.fb2e53d7.js
+Content Type: application/javascript
+
+Uri: https://act.mihoyo.com/puzzle/bh3/pz_3mn5bIpcHQ/setups.ce0e5600.js
+File Name: C:\Downloaded Web Sites\bh3.mihoyo.com\puzzle\bh3\pz_3mn5bIpcHQ\setups.ce0e5600.js
+Content Type: application/javascript
+
+Uri: https://act.mihoyo.com/puzzle/bh3/pz_3mn5bIpcHQ/vendor.5f0c457c.js
+File Name: C:\Downloaded Web Sites\bh3.mihoyo.com\puzzle\bh3\pz_3mn5bIpcHQ\vendor.5f0c457c.js
+Content Type: application/javascript
+
+Uri: https://bh3.mihoyo.com/
+File Name: C:\Downloaded Web Sites\bh3.mihoyo.com\index.htm
+Content Type: text/html
+
+Uri: https://bh3.mihoyo.com/favicon.ico
+File Name: C:\Downloaded Web Sites\bh3.mihoyo.com\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://webstatic.mihoyo.com/dora/biz/mihoyo-analysis/v2/main.js
+File Name: C:\Downloaded Web Sites\bh3.mihoyo.com\dora\biz\mihoyo-analysis\v2\main.js
+Content Type: application/javascript
+
+Uri: https://webstatic.mihoyo.com/dora/biz/mihoyo-browser-tips/v1/main.js
+File Name: C:\Downloaded Web Sites\bh3.mihoyo.com\dora\biz\mihoyo-browser-tips\v1\main.js
+Content Type: application/javascript
+
+Uri: https://webstatic.mihoyo.com/dora/biz/render-template/3.16.8/app.js
+File Name: C:\Downloaded Web Sites\bh3.mihoyo.com\dora\biz\render-template\3.16.8\app.js
+Content Type: application/x-javascript
+
+Uri: https://webstatic.mihoyo.com/dora/biz/render-template/3.16.8/polyfill.js
+File Name: C:\Downloaded Web Sites\bh3.mihoyo.com\dora\biz\render-template\3.16.8\polyfill.js
+Content Type: application/x-javascript
+
+Uri: https://webstatic.mihoyo.com/dora/lib/sentry-lazy/1.3.0/sentry-lazy.global.js
+File Name: C:\Downloaded Web Sites\bh3.mihoyo.com\dora\lib\sentry-lazy\1.3.0\sentry-lazy.global.js
+Content Type: application/x-javascript
+
+Uri: https://webstatic.mihoyo.com/dora/lib/vue/2.7.14/vue.runtime.min.js
+File Name: C:\Downloaded Web Sites\bh3.mihoyo.com\dora\lib\vue\2.7.14\vue.runtime.min.js
+Content Type: application/x-javascript
+
